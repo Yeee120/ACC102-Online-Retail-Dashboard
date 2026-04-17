@@ -30,7 +30,7 @@ Main variables include:
 - Country
 
 **Original source:** UCI Machine Learning Repository, Online Retail dataset  
-**Access date:** April 16th 2026
+**Access date:** 16 April 2026
 
 The dataset file used in this project is included in the repository as `Online Retail.xlsx`.
 
